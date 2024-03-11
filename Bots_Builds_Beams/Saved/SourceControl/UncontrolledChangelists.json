@@ -1,0 +1,36 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Personal Projects/Bots_Builds_and_Beams/Bots_Builds_Beams/Content/Design/Input/IA_Look.uasset",
+				"D:/Personal Projects/Bots_Builds_and_Beams/Bots_Builds_Beams/Content/Design/Input/IA_Jump.uasset",
+				"D:/Personal Projects/Bots_Builds_and_Beams/Bots_Builds_Beams/Content/Design/Input/IMC_Basic.uasset",
+				"D:/Personal Projects/Bots_Builds_and_Beams/Bots_Builds_Beams/Content/Maps/LVL_Main_Menu.umap",
+				"D:/Personal Projects/Bots_Builds_and_Beams/Bots_Builds_Beams/Content/Design/Character/BP_Cosmic_Kid.uasset",
+				"D:/Personal Projects/Bots_Builds_and_Beams/Bots_Builds_Beams/Content/Design/Character/Enum_Perspective.uasset",
+				"D:/Personal Projects/Bots_Builds_and_Beams/Bots_Builds_Beams/Content/Design/World_Settings/GM_Main_Game.uasset",
+				"D:/Personal Projects/Bots_Builds_and_Beams/Bots_Builds_Beams/Content/Design/Input/IA_Move.uasset",
+				"D:/Personal Projects/Bots_Builds_and_Beams/Bots_Builds_Beams/Content/Design/Input/IA_Perspective.uasset",
+				"D:/Personal Projects/Bots_Builds_and_Beams/Bots_Builds_Beams/Content/Design/World_Settings/PC_Main_Game.uasset",
+				"D:/Personal Projects/Bots_Builds_and_Beams/Bots_Builds_Beams/Content/Design/UI/W_Heads_Up_Display.uasset",
+				"D:/Personal Projects/Bots_Builds_and_Beams/Bots_Builds_Beams/Content/Design/UI/UserInterface/W_Heads_Up_Display.uasset",
+				"D:/Personal Projects/Bots_Builds_and_Beams/Bots_Builds_Beams/Content/Design/World_Settings/PC_Game.uasset",
+				"D:/Personal Projects/Bots_Builds_and_Beams/Bots_Builds_Beams/Content/Design/World_Settings/PC_Survival.uasset",
+				"D:/Personal Projects/Bots_Builds_and_Beams/Bots_Builds_Beams/Content/Design/World_Settings/GM_Survival.uasset",
+				"D:/Personal Projects/Bots_Builds_and_Beams/Bots_Builds_Beams/Content/Maps/LVL_Survival_Level.umap",
+				"D:/Personal Projects/Bots_Builds_and_Beams/Bots_Builds_Beams/Content/Design/Main_Menu/GM_Main_Menu.uasset",
+				"D:/Personal Projects/Bots_Builds_and_Beams/Bots_Builds_Beams/Content/Design/Main_Menu/PC_Main_Menu.uasset",
+				"D:/Personal Projects/Bots_Builds_and_Beams/Bots_Builds_Beams/Content/Design/UI/Font/RicksAmericanNF.uasset",
+				"D:/Personal Projects/Bots_Builds_and_Beams/Bots_Builds_Beams/Content/Design/UI/Font/RicksAmericanNF_Font.uasset",
+				"D:/Personal Projects/Bots_Builds_and_Beams/Bots_Builds_Beams/Content/Design/UI/Font/techniqo.uasset",
+				"D:/Personal Projects/Bots_Builds_and_Beams/Bots_Builds_Beams/Content/Design/UI/Font/techniqo_Font.uasset",
+				"D:/Personal Projects/Bots_Builds_and_Beams/Bots_Builds_Beams/Content/Design/UI/Main_Menu/W_Main_Menu.uasset",
+				"D:/Personal Projects/Bots_Builds_and_Beams/Bots_Builds_Beams/Content/Design/UI/Main_Menu/W_MM_Button.uasset",
+				"D:/Personal Projects/Bots_Builds_and_Beams/Bots_Builds_Beams/Content/Design/UI/Main_Menu/WM_Main_Menu.uasset"
+			]
+		}
+	]
+}
